@@ -1,4 +1,3 @@
-markdown
 # JLG Slash Command Package
 
 Welcome to the **JLG Slash Command Package**! This package is designed to simplify the creation and management of slash commands for your applications. Whether you're building a bot or a server-side application, this package provides a streamlined solution to handle commands efficiently.
